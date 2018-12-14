@@ -1,2 +1,2 @@
-# Huffman compresion
-Implementation of huffman coding for compresion.
+# Huffman compression
+Implementation of huffman coding for compression.
